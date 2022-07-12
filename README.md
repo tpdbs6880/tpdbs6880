@@ -3,11 +3,12 @@
 <h3 align="center">🐥Tech Stack🐥</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> &nbsp
-<img alt="Python" src ="https://img.shields.io/badge/Python-3766AB?&style=for-the-badge&logo=Python&logoColor=white"/></a> &nbsp
-<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/></a> &nbsp
-<img alt="JAVA" src ="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white"/></a> &nbsp </p>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/></a>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3766AB?&style=for-the-badge&logo=Python&logoColor=white"/></a>
+<img alt="JAVA" src ="https://img.shields.io/badge/Java-007396?&style=for-the-badge&logo=Java&logoColor=white"/></a>
+<img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white"/></a></p>
 
 
 
