@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFCCE5&height=300&section=header&text=Hello&desc=I'm%20Se%20Yoon&fontAlignY=30&fontAlign=65&descAlignY=45&descAlign=73&fontSize=90&rotate=20)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFCCE5&height=300&section=header&text=Hello&desc=I'm%20Se%20Yoon&fontAlignY=30&fontAlign=65&descAlignY=45&descAlign=73&fontSize=90&rotate=20&fontColor=FFFFFF)
 
 <h3 align="center">🐥Tech Stack🐥</h3>
 
