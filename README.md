@@ -2,6 +2,8 @@
 
 <h3 align="center">🐥Tech Stack🐥</h3>
 
+<p align="center"> Techs that I've used at least once </p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"/></a> 
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
