@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=FFCCE5&height=300&section=header&text=Hello&desc=I'm%20Se%20Yoon&&fontAlignY=30&fontAlign=65&descAlignY=45&descAlign=73&fontSize=90&rotate=20&fontColor=FFFFFF)
+<p align="left"> gdgdgd</p?>
 
 <h3 align="center">💚Introduction💚</h3>
 <p align="center"> 안녕하세요! 백엔드 개발자가 되기 위하여 공부 중 입니다.<br/>웹 개발에 열정 가득한  멋진 개발자가 되겠습니다😊</p>
